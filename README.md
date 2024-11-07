@@ -1,3 +1,3 @@
 # Demo
 
-This is (not) Levi's first repo!
+This is not Levi's first repo!
